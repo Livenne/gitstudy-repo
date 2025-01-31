@@ -1,2 +1,0 @@
-# Study Git
-Hello World!
