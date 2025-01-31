@@ -1,1 +1,2 @@
-"This is test message" 
+This is test message" 
+Line 2 I am new message
